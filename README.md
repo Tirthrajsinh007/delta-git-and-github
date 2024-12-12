@@ -1,2 +1,2 @@
-# delta-git-and-github
+# delta-git & github
 learning git and github
